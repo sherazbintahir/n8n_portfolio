@@ -1,9 +1,4 @@
 # 🤖 n8n AI Agent Portfolio
-### Production-Grade Automation Systems | Multi-Platform Integration
-
-![Agent Overview](Conversation%20Agent%20(n8n+retell+ytel).jpeg)
-
----
 
 ## 🚀 Overview
 
