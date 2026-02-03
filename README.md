@@ -130,4 +130,4 @@ This portfolio showcases production-grade automation systems with proven busines
 
 ---
 
-**Built with ❤️ and n8n**
+**Built with ❤️ and n8n.**
