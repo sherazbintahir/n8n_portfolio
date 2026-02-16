@@ -87,6 +87,33 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 **Key Features**: Automated Uploads • AI Thumbnail Generation • SEO Descriptions • Notification Management • Analytics Integration • Comment Moderation
 
 ---
+### 8️⃣ 📧 AI Email Marketing Automation Agent
+![Real Estate Email Marketing Agent](Real%20Estate%20Email%20Marketing%20Agent.jpeg)
+
+**Automated real estate email engine** built in n8n for structured lifecycle driven outreach and engagement tracking.
+
+**Tech Stack:** n8n • Apollo • HubSpot • Google Sheets • Webhooks
+
+**Key Features:**
+
+• Automated property sync with smart rotation
+• Lead sourcing and enrichment via Apollo
+• CRM lifecycle mapping and deduplication
+• Daily personalized outreach automation
+• Real time engagement tracking and lead scoring
+• Automatic MQL promotion and notifications
+• Structured follow up cadence control
+
+**Workflow:** Property Sync → Lead Enrichment → CRM Sync → Daily Outreach → Engagement Tracking → Qualification → Follow Up Logic
+
+**📈 Impact:**
+
+• Scalable outreach system
+• Controlled sending with zero spam risk
+• Automated qualification and sales readiness
+
+
+---
 
 ## 💡 Core Capabilities
 
