@@ -88,7 +88,8 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 
 ---
 ### 8️⃣ 📧 AI Email Marketing Automation Agent
-![Real Estate Email Marketing Agent](Real%20Estate%20Email%20Marketing%20Agent.jpeg)
+<img width="1266" height="602" alt="image" src="https://github.com/user-attachments/assets/f7866546-5f13-47ad-90bb-c2cee00498f9" />
+
 
 **Automated real estate email engine** built in n8n for structured lifecycle driven outreach and engagement tracking.
 
