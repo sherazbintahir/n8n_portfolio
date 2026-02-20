@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced integrations across telecommunications, real estate, content creation, customer service, and financial processing. These agents handle **10,000+ automated interactions monthly** with real-time processing and intelligent decision-making.
+Portfolio of **production-ready AI agents** built with n8n, featuring advanced integrations across telecommunications, real estate, content creation, customer service, and financial processing. These agents handle real-time processing and intelligent decision-making.
 
 **Impact**: 95% reduction in manual processing | Zero missed follow-ups | Complete audit trails
 
