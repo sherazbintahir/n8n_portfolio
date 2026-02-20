@@ -15,7 +15,7 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 
 **AI-powered voice platform** managing outbound/inbound calls with intelligent disposition tracking across **3 interconnected workflows**.
 
-**Tech Stack**: Ytel • RetellAI • n8n • Twilio
+**Tech Stack**: Ytel • RetellAI • n8n
 
 **Key Features**:
 - Automated outbound dialing with AI agents
@@ -30,7 +30,7 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 
 **Fully automated foreclosure pipeline** from lead capture to CRM qualification with zero manual intervention.
 
-**Tech Stack**: n8n • PostgreSQL • Skip-Tracing APIs • PropStream • GoHighLevel
+**Tech Stack**: n8n • Skip-Tracing APIs • PropStream • GoHighLevel
 
 **Key Features**:
 - Automated lead ingestion from multiple sources
@@ -46,9 +46,9 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 ### 3️⃣ ✍️ Blog Posting Agent
 ![Blog Posting Agent](Blog%20Posting%20Agent.jpeg)
 
-**Automated content creation and multi-platform publishing** with SEO optimization.
+**Automated content creation and multi-platform publishing**
 
-**Key Features**: AI Content Generation • Smart Scheduling • Multi-Platform Publishing (WordPress, Medium, Ghost) • SEO Optimization • Performance Analytics • Media Management
+**Key Features**: AI Content Generation • Smart Scheduling • SEO Optimization
 
 ---
 
@@ -57,7 +57,7 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 
 **Intelligent inbox automation** with context-aware AI responses and smart routing.
 
-**Key Features**: AI-Powered Responses • Smart Categorization • Multi-Account Support • Intent Recognition • Response Analytics • SLA Management
+**Key Features**: AI-Powered Responses • Multi-Account Support • Intent Recognition
 
 ---
 
@@ -66,25 +66,39 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 
 **ML-powered invoice automation** with OCR extraction and accounting integration.
 
-**Key Features**: OCR Data Extraction • Validation Engine • Direct Accounting Sync (QuickBooks, Xero, SAP) • Duplicate Detection • Approval Workflows • Payment Automation
-
 ---
 
 ### 6️⃣ 💼 LinkedIn Posting Agent
 ![LinkedIn Posting Agent](Linkedin%20Posting%20Agent.PNG)
+![Automated Linkdein Post](https://github.com/user-attachments/assets/001fbe99-c3b2-4417-9ddd-30c396423042)
 
 **Automated LinkedIn strategy** with engagement optimization and network growth.
 
-**Key Features**: Content Scheduler • AI Post Generation • Engagement Analytics • Hashtag Optimization • Comment Management • Connection Automation
+**Tech Stack**: 
+- Hugging Face FLUX-1 Model **(free)** for image generation
+- Gemini API
+- Google sheets
+- Linkedin
+
+**Key Features**: Content Scheduler • AI Post Generation • Hashtag Optimization
 
 ---
 
 ### 7️⃣ 🎥 YouTube Posting Agent
 ![YouTube Posting Agent](Youtube%20Posting%20Agent.jpeg)
 
+**Youtube video link**
+https://youtube.com/shorts/sZ0tXZ_cm9s?si=S0vV_8fja0qf-2kV
+https://youtube.com/shorts/1NmPa_umv-0?si=Hj20NphHCZct5cvz
+
 **End-to-end YouTube pipeline** from upload to optimization with analytics-driven strategy.
 
-**Key Features**: Automated Uploads • AI Thumbnail Generation • SEO Descriptions • Notification Management • Analytics Integration • Comment Moderation
+**Tech Stack**
+- Decart.ai **(FREE)** for video generatoin
+- Google sheets
+- Gemini
+- Youtube
+
 
 ---
 ### 8️⃣ 📧 AI Email Marketing Automation Agent
@@ -125,7 +139,7 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 ## 🛠️ Technologies
 
 **Platform**: n8n • Node.js  
-**AI/ML**: OpenAI GPT • RetellAI • NLP  
+**AI/ML**: OpenAI GPT • RetellAI  
 **Databases**: PostgreSQL • Google Sheets  
 **APIs**: REST • Webhooks • GraphQL  
 **Telecom**: Ytel • Twilio  
@@ -137,7 +151,6 @@ Portfolio of **7 production-ready AI agents** built with n8n, featuring advanced
 
 ## 📈 Results & Impact
 
-✅ **10,000+** automated interactions monthly  
 ✅ **95%** reduction in manual processing time  
 ✅ **Zero** missed follow-ups or forgotten tasks  
 ✅ **Real-time** synchronization across all systems  
