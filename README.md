@@ -238,19 +238,6 @@ https://youtube.com/shorts/1NmPa_umv-0?si=Hj20NphHCZct5cvz
 
 ---
 
-## 🛠️ Technologies
-
-**Platform**: n8n • Node.js  
-**AI/ML**: OpenAI GPT • RetellAI  
-**Databases**: PostgreSQL • Google Sheets  
-**APIs**: REST • Webhooks • GraphQL  
-**Telecom**: Ytel • Twilio  
-**CRM**: Salesforce • HubSpot • GoHighLevel  
-**Content**: WordPress • Medium • Ghost  
-**Social**: LinkedIn • YouTube  
-
----
-
 ## 📈 Results & Impact
 
 ✅ **95%** reduction in manual processing time  
