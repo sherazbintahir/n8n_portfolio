@@ -127,6 +127,108 @@ https://youtube.com/shorts/1NmPa_umv-0?si=Hj20NphHCZct5cvz
 • Controlled sending with zero spam risk
 • Automated qualification and sales readiness
 
+---
+
+### 9️⃣ 🔐 NMC PIN Verification Bot
+
+![Status](https://img.shields.io/badge/Status-Production-brightgreen) ![Python](https://img.shields.io/badge/Python-Automation-blue)
+
+**Fully automated healthcare registration verification system** that handles bulk candidate PIN checks, manages CAPTCHA flow, classifies results, and updates live CRM records.
+
+**Tech Stack**: Python • Automation • Speech-to-Text • CRM Integration • Excel Reporting
+
+**Key Features**:
+- Audio CAPTCHA bypass using speech-to-text transcription
+- Five-state outcome polling with smart terminal state handling
+- Dual storage with local database and Excel reporting
+- Live CRM integration for real-time candidate record updates
+- Atomic file writes to prevent OS-level locking errors
+
+**Workflow**: Candidate List → Portal Login → CAPTCHA Bypass → PIN Submission → Status Polling → Result Classification → CRM Sync
+
+**📈 Impact:**
+
+• Eliminated manual registration checking  
+• Handles bulk candidate lists overnight  
+• Full audit trail for every verification result  
+
+---
+
+### 🔟 🖥️ Compliance Document Automation Bot
+
+![Status](https://img.shields.io/badge/Status-Production-brightgreen) ![Desktop Automation](https://img.shields.io/badge/Desktop-Automation-orange)
+
+**Desktop automation bot** that operates a staffing CRM to download compliance documents for candidates without manual interaction.
+
+**Tech Stack**: Python • Desktop Automation • OCR • CRM Automation • PDF Processing
+
+**Key Features**:
+- UI automation based CRM navigation
+- OCR-driven candidate search and status detection
+- Multiple compliance document types handled and classified
+- Intelligent attachment detection through visual scanning
+- Optimized API payload handling for large document batches
+
+**Workflow**: Candidate List → CRM Login → Candidate Search → Compliance Tab → Document Type Detection → PDF Download → Storage
+
+**📈 Impact:**
+
+• Full compliance document pipeline with zero manual CRM interaction  
+• Scales across unlimited candidates per run  
+• Consistent document classification for downstream processing  
+
+---
+
+### 1️⃣1️⃣ 📄 AI CV Preparation Pipeline
+
+![Status](https://img.shields.io/badge/Status-Production-brightgreen) ![n8n](https://img.shields.io/badge/n8n-Workflow-red) ![GPT-4.1](https://img.shields.io/badge/GPT--4.1-Powered-purple)
+
+**End-to-end AI-powered CV rewriting and generation pipeline** that converts raw candidate data into polished, formatted CVs ready for submission across multiple healthcare staffing clients.
+
+**Tech Stack**: n8n • GPT-4.1 • Google Docs • CRM Integration • Webhooks
+
+**Key Features**:
+- GPT-4.1 duty generation with conditional branching logic per role type
+- Code-side employment gap detection with month-precision
+- Template-based document generation using anchor placeholders
+- Styled employment tables with enforced formatting
+- Automatic gap declaration highlighting for compliance visibility
+- Call transcription data support where applicable
+- Auto-upload to CRM with correct record routing per client
+
+**Workflow**: Webhook Trigger → Call Transcription → AI CV Rewrite → Gap Detection → Doc Template Population → PDF Export → CRM Upload
+
+**📈 Impact:**
+
+• CV prep time reduced from 30-45 minutes to under 3 minutes  
+• Production-deployed across multiple clients  
+• Consistent formatting with zero manual document editing  
+• Gap detection fully automated and reliable  
+
+---
+
+### 1️⃣2️⃣ 🗂️ Timesheet Processing Web App
+
+![Status](https://img.shields.io/badge/Status-Production-brightgreen) ![Web App](https://img.shields.io/badge/Web-App-teal)
+
+**Web-based timesheet submission and processing application** for staffing operations, replacing manual paper and email-based timesheet handling with a structured digital workflow.
+
+**Tech Stack**: Web App • Database • Automation • Validation Logic • CRM / Payroll Ready
+
+**Key Features**:
+- Clean web UI accessible without local installation
+- Database-backed persistence that survives session resets
+- Full submission history per worker
+- Structured validation before processing
+- Designed for downstream payroll and CRM integration
+
+**Workflow**: Timesheet Submission → Data Validation → Persistent Storage → Submission History → Payroll / CRM Integration
+
+**📈 Impact:**
+
+• Replaced manual email and paper timesheet flow  
+• Persistent history for full audit tracking  
+• Scalable across multiple clients and worker pools  
 
 ---
 
